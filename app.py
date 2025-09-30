@@ -26,7 +26,7 @@ HTML = """
 </head>
 <body>
     <div class="container">
-        <h1>Task Manager</h1>
+        <h1>To Do List</h1>
         <form id="taskForm">
             <input type="text" id="taskInput" placeholder="Add a new task..." required />
             <button type="submit" class="add-btn">Add</button>
